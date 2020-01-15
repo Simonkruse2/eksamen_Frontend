@@ -1,4 +1,4 @@
-const URL = "https://simonskodebiks.com/eksamen_Backend";
+const URL = "https://simonskodebiks.com/eksamen_Backend/";
 
 function handleHttpErrors(res) {
   if (!res.ok) {
